@@ -1,4 +1,4 @@
-<img align="left" width=18% src="catplaying.png">
+<img align="left" width=13% src="catplaying.png">
 
 ### Hi there 👋
 
