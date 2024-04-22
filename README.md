@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I'm Gisele, a CS graduate student (expected 2024) with a passion for research, applications of machine learning in education, data, development, and all things creative. 
+I'm Gisele, a CS graduate student with a passion for research, applications of machine learning in education, data, development, and all things creative. 
 <!--
 **paola4/paola4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
